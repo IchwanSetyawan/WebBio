@@ -1,0 +1,73 @@
+body{
+	padding: 0;
+	margin: 0;
+	background-color: #e3e4e8;
+
+
+}
+.menu{
+	width: 1300px;
+	height: 80px;
+	background-color: transparent;
+	margin: auto;
+
+
+}
+.menu_list>li{
+	display: inline;
+	line-height: 10px;
+
+}
+
+.menu_list>li>a{
+	text-decoration: none;
+	font-family:  Montserratt;
+	font-weight: bold;
+	font-size: 18px;
+	padding: 15px;
+	margin-top: 0px;
+	display: inline;
+
+}
+.menu_list>li>a:hover{
+	padding: 20px;
+	background: #41e5f4;
+
+}
+.menu_list{
+	margin-left: 800px;
+	padding: 15px;
+}
+.profile img {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	margin: 0 0 0 567px;
+
+}
+.slogan{
+	font-family:monospace;
+	margin-bottom: 0;
+}
+
+.footer{
+	width: 1366px;
+	height: 55px;
+	background-color: #646568;
+	margin:500px 0px 0px 0px; 
+
+
+}
+.footer>li{
+	font-family: consolas;
+	font-size: 14px;
+	line-height: 58px;
+	color: #ffff;
+	font-weight: bold;
+
+
+}
+
+li{
+	list-style: none;
+}
