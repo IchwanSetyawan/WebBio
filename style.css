@@ -45,6 +45,11 @@ body{
 	margin: 0 0 0 567px;
 
 }
+
+.bio>p{
+	text-align: left;
+
+}
 .slogan{
 	font-family:monospace;
 	margin-bottom: 0;
@@ -65,9 +70,16 @@ body{
 	color: #ffff;
 	font-weight: bold;
 
-
+}
+.logo{							
+	font-family: consolas; /*mengatur jenis font di css*/
 }
 
+.list_fb>li{
+	/*margin: 10px 10px 10px 10px;*/
+	width: 200px;
+	height: 200px;
+}
 li{
 	list-style: none;
 }
